@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/off_highway_sensor_drivers-release.git
 tracks:
   humble:
     actions:
